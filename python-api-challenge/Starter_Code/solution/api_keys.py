@@ -1,5 +1,5 @@
 # OpenWeatherMap API Key
-weather_api_key = "80e8db9aa5525920d2750d0007212849"
+weather_api_key = "API KEY"
 
 # Geoapify API Key
-geoapify_key = "06976ba24a85402197a9d0dce1946bae"
+geoapify_key = "API KEY"
